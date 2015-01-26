@@ -1,1 +1,1 @@
-(name 'BaselineOfFlow-jupiter.1' message 'initial version' id 'cd829b94-c183-44bd-b503-2e1226811b84' date '01/26/2015' time '23:32:47' author 'jupiter' ancestors () stepChildren ())
+(name 'BaselineOfFlow-jupiter.2' message 'fixed default group to load App rather than Flow' id '3ecbdc70-c790-4251-b41f-b727030213c3' date '01/26/2015' time '00:27:43' author 'jupiter' ancestors ((name 'BaselineOfFlow-jupiter.1' message 'initial version' id 'cd829b94-c183-44bd-b503-2e1226811b84' date '01/26/2015' time '23:32:47' author 'jupiter' ancestors () stepChildren ())) stepChildren ())

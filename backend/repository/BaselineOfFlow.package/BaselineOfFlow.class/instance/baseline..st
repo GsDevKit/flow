@@ -30,7 +30,7 @@ baseline: spec
         package: 'App' with: [ spec requires: #('Flow') ];
         yourself.
       spec
-        group: 'default' with: #('Flow' 'PetShop');
+        group: 'default' with: #('App' 'PetShop');
         group: 'petshop' with: #('PetShop');
         yourself ].
   spec
